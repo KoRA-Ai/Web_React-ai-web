@@ -1,0 +1,49 @@
+.listBtnDiv{
+    padding:10px 0;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    width:150px;
+}
+
+.listBtn{
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 5px 10px ;
+    border: 2px solid rgb(227, 167, 48);
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.listBtn:hover{
+    background-color: rgba(118, 113, 105, 0.397);
+}
+
+
+.table {
+    align-items: center;
+    justify-content: center;
+    margin:auto;
+}
+
+.table th{
+    background-color: rgba(118, 113, 105, 0.397);
+
+}
+
+
+.itemName{
+    text-align:end;
+    width: 130px;
+}
+
+.item2Name{
+    text-align:end;
+    width: 100px;
+}
+.item3Name{
+    text-align:center;
+    width: 300px;
+    padding: 10px;
+}

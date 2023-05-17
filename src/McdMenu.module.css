@@ -1,0 +1,55 @@
+.app{
+    margin: 20px 200px;
+    padding:10px;
+}
+.title{
+    margin-bottom: 25px;
+}
+.menuNav{
+    background-color: antiquewhite;
+    align-items:center ;
+    justify-content: center;
+    margin: auto;
+    position: fixed;
+    
+}
+
+.btnDiv{
+    padding:10px;
+    display: block;
+}
+
+.btn{
+    padding:10px;
+    width: 80px;
+    border:2px solid rgb(227, 167, 48);
+    cursor: pointer;
+
+}
+
+.btn:hover{
+    background-color: rgba(118, 113, 105, 0.397);
+
+}
+
+.listDiv{
+    background-color: rgb(248, 239, 227);
+    border:2px solid rgba(139, 69, 19, 0.519);
+    margin-left: 120px;
+    padding: 10px;
+    overflow-y: scroll;
+    height: 550px;
+   
+}
+
+
+
+
+@media only screen and (max-width: 1024px) {
+    .app{
+        margin: 20px ;
+        padding:10px;
+        
+    }
+
+}

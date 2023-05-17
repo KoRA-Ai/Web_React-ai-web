@@ -1,0 +1,16 @@
+.app{
+    margin:20px auto;
+    padding:10px;
+    height: 100px;
+    width: 200px;
+    border: 2px solid rgba(0, 0, 0, 0.717);
+    display: flex;
+	align-items: center;
+    justify-content: center;
+}
+
+.ul a {
+    padding:10px; 
+    text-decoration: none;
+
+}
